@@ -1,0 +1,10 @@
+.lephai {
+  width: 70%;
+  border-right: 2px solid #222;
+  background-color: grey;
+  color: white;
+  font-size: 20px;
+}
+.xelephai {
+  display: flex;
+}

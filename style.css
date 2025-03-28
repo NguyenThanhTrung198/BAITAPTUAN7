@@ -7,13 +7,6 @@
   display: flex;
 }
 
-.menucon {
-  color: white;
-  position: absolute;
-  top: 50px;
-  left: 70%;
-  display: flex;
-}
 #phan2 {
   background-color: grey;
   color: white;
@@ -31,50 +24,14 @@
 h1 {
   font-size: 50px;
 }
-#menu {
-  width: 100%;
-  height: 80px;
-  background-color: yellow;
-  display: flex;
-  margin: auto;
-}
 
-#menu a {
-  text-decoration: none;
-  color: black;
-  font-size: 30px;
-  margin: auto;
-}
 a {
   color: black;
   font-size: 35px;
   margin: auto;
 }
 
-.wall {
-  width: 1px;
-  line-height: 50px;
-  color: #000;
-}
-.lephai {
-  width: 70%;
-  border-right: 2px solid #222;
-  background-color: grey;
-  color: white;
-  font-size: 20px;
-}
-
-#letrai {
-  width: 30%;
-  height: 40%;
-  border-right: 2px solid #222;
-  background-color: grey;
-  color: white;
-  font-size: 20px;
-  /* tạo thanh cuốn cho lề trái  */
-  /* overflow-y: scroll; hoặc dùng auto*/
-}
-#logohonda {
+#logothuonghieu {
   width: 250px;
   height: 150px;
 }
@@ -84,26 +41,9 @@ a {
   width: 70%;
   margin-left: 80px;
 }
-.xeletrai {
-  background-color: rgb(118, 69, 69);
-  margin: 20px;
-}
-.xeletrai p {
-  margin: 10px;
-}
+
 h3 {
   background-color: blue;
   width: 60%;
   border-radius: 0px 5px 5px 0px;
-}
-.xelephai {
-  display: flex;
-}
-
-#menu a:hover {
-  color: yellow;
-  background-color: black;
-  font-size: 30px;
-  border-radius: 10px;
-  padding: 10px 40px 5px 40px;
 }

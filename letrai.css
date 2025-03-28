@@ -1,0 +1,18 @@
+#letrai {
+  width: 30%;
+  height: 40%;
+  border-right: 2px solid #222;
+  background-color: grey;
+  color: white;
+  font-size: 20px;
+  /* tạo thanh cuốn cho lề trái  */
+  /* overflow-y: scroll; hoặc dùng auto*/
+}
+.xeletrai {
+  background-color: rgb(118, 69, 69);
+  margin: 20px;
+}
+#letrai p {
+  margin-left: 20px;
+  margin-right: 20px;
+}
